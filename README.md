@@ -1,4 +1,4 @@
-# poly-market-logic
+# modular-endpoint-handler
 
 Modular logic patterns for interacting with market-based prediction environments.
 
